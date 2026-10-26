@@ -1,0 +1,21 @@
+{
+  "name": "sit-ca-03-fullstack",
+  "version": "1.0.0",
+  "description": "Full-stack Student Management System with Express, MongoDB, and React (CA-03)",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "server:dev": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "client:build": "npm --prefix client run build",
+    "install:all": "npm --prefix server install && npm --prefix client install"
+  },
+  "keywords": [
+    "react",
+    "express",
+    "mongodb",
+    "sit",
+    "ca-03"
+  ],
+  "author": "",
+  "license": "ISC"
+}
