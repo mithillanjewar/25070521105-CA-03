@@ -2,7 +2,11 @@
 
 Full-stack web application developed for **Continuous Assessment 03 (CA-03)**, Symbiosis Institute of Technology (SIT), Section B.
 
-Based on the repository: [https://github.com/somesh-chutel/25070521060-CA-03.git](https://github.com/somesh-chutel/25070521060-CA-03.git)
+[![Node.js](https://img.shields.io/badge/Node.js-v24.22-green)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-v5.2-blue)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-v9.0-emerald)](https://www.mongodb.com/)
+[![React](https://img.shields.io/badge/React-v19.2-cyan)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-v8.3-purple)](https://vitejs.dev/)
 
 ---
 
@@ -98,3 +102,5 @@ e:/new project 1/
 │       └── contact.jsx      # Interactive contact form
 └── README.md                # Project documentation
 ```
+Administrator	admin@sitnagpur.edu.in	admin123
+Student	student@sitnagpur.edu.in	student123
