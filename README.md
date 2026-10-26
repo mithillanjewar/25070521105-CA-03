@@ -2,11 +2,14 @@
 
 Full-stack web application developed for **Continuous Assessment 03 (CA-03)**, Symbiosis Institute of Technology (SIT), Section B.
 
-[![Node.js](https://img.shields.io/badge/Node.js-v24.22-green)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-v5.2-blue)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-v9.0-emerald)](https://www.mongodb.com/)
-[![React](https://img.shields.io/badge/React-v19.2-cyan)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-v8.3-purple)](https://vitejs.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-v22.20-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-v4.22-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-v9.0-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![React](https://img.shields.io/badge/React-v19.3-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-v6.4-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![React Router](https://img.shields.io/badge/React_Router-v7.1-CA4245?logo=reactrouter&logoColor=white)](https://reactrouter.com/)
+[![JWT](https://img.shields.io/badge/JWT-v9.0-black?logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-v4.6-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 ---
 
